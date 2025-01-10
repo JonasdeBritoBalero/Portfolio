@@ -1,14 +1,7 @@
-Um site sobre mim
+<h1>Site portifólio </h1>
 
-Composição:
-- Barra de navegação.
-- Foto pessoal.
-- Resumo sobre a minha pessoa.
-- Cursos e formação.
-- Projetos que eu realizei.
-- Rodapé.
-
-Extras:
-- Paleta de cores.
-- Ideias criativas para mostrar habilidades com css e javascript.
-- redes sociais.
+<h2>Composição: </h2>
+<ul>
+    <li>Projetos pessoais e andamentos.</li>
+    <li>Cursos e formações pessoais.</li>
+</ul>
