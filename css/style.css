@@ -52,7 +52,7 @@ main{
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 50px;
     padding-bottom: 50px;
-    background-color: rgb(131, 131, 255);
+    background-color: #79C1C6;
     border-radius: 0% 0% 25% 25%;
 }
 
@@ -65,7 +65,7 @@ main{
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 50px;
     padding-bottom: 50px;
-    background-color: rgb(131, 131, 255);
+    background-color: #79C1C6;
     border-radius: 0% 0% 25% 25%;
 }
 
