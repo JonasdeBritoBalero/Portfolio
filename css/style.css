@@ -12,9 +12,20 @@ nav{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     padding: 10px;
+}
+
+.texto_esquerda{
+    text-align: left;
+}
+
+.texto_direito{
     text-align: right;
 }
 
+.texto_centro{
+    text-align: center;
+}
+    
 .perfil{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -44,7 +55,6 @@ main{
     text-align: center;
     color: #405080;
     font-size: 40px;
-    background-color: rgb(250, 184, 41);
 }
 
 .projetos{
@@ -52,8 +62,6 @@ main{
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 50px;
     padding-bottom: 50px;
-    background-color: #79C1C6;
-    border-radius: 0% 0% 25% 25%;
 }
 
 .projeto{
@@ -65,8 +73,6 @@ main{
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 50px;
     padding-bottom: 50px;
-    background-color: #79C1C6;
-    border-radius: 0% 0% 25% 25%;
 }
 
 .curso{
